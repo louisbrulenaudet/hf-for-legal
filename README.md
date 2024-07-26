@@ -39,7 +39,7 @@ dataset = datasets.Dataset.from_dict(
   {
     "document": [
       "This is a test document.", 
-      "Another test document.
+      "Another test document."
     ]
   }
 )
