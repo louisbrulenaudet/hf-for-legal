@@ -63,5 +63,6 @@ setup(
     install_requires=[
         "datasets",
         "numpy",
+        "tqdm"
     ],
 )

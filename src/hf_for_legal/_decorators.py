@@ -31,7 +31,7 @@ from typing import (
     Sequence,
 )
 
-from eel._logger import Logger
+from hf_for_legal._logger import Logger
 
 logger = Logger()
 

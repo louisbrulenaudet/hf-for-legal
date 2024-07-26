@@ -18,11 +18,12 @@ By bringing together legal experts, AI researchers, and technology enthusiasts, 
 To use hf-for-legal, you need to have the following Python packages installed:
 - `numpy`
 - `datasets`
+- `tqdm`
 
 You can install these packages via pip:
 
 ```bash
-pip install numpy datasets hf-for-legal
+pip install numpy datasets hf-for-legal tqdm
 ```
 
 ## Usage
