@@ -31,7 +31,7 @@ from typing import (
 
 setup(
     name="hf-for-legal",
-    version="0.0.1",
+    version="0.0.12",
     description="HF for Legal, a community package for legal application 🤗",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
