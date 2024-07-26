@@ -1,6 +1,6 @@
 [project]
 name = "hf-for-legal"
-version = "0.0.12"
+version = "0.0.13"
 description = "HF for Legal: A Community Package for Legal Applications 🤗"
 readme = "README.md"
 keywords = ["language-models", "retrieval", "web-scraping", "gpl", "nlp", "hf-for-legal", "machine-learning", "retrieval-augmented-generation", "RAG", "huggingface", "generative-ai", "llama", "Mistral", "inference-api", "datasets", "llm-as-judge"]
@@ -38,7 +38,7 @@ PYTHONPATH = "src"
 
 [metadata]
 name = "hf-for-legal"
-version = "0.0.12"
+version = "0.0.13"
 author = "Louis Brulé Naudet"
 author_email = "louisbrulenaudet@icloud.com"
 description = "HF for Legal: A Community Package for Legal Applications 🤗"
