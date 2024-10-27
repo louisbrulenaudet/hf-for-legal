@@ -235,7 +235,7 @@ Apply both the hash and UUID functions to the dataset.
 
 You can now join, communicate and share on the HF for Legal community server on Discord.
 
-Link to the server: https://discord.gg/vNhXRsfw
+Link to the server: https://discord.gg/adwsfUUhw8
 
 This server will simplify communication between members of the organization and generate synergies around the various projects in the three areas of interactive applications, databases and models.
 
